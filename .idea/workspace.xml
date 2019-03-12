@@ -1,0 +1,795 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e40281a7-67b5-4711-8ec3-78b93d50e847" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extra_message" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rookie/pattern/singleton/hungry/HungrySingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rookie/pattern/singleton/hungry/HungryStaticSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rookie/pattern/singleton/lazy/LazyDoubleCheckSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rookie/pattern/singleton/lazy/LazyInnerClassSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rookie/pattern/singleton/lazy/LazySimpleSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rookie/pattern/singleton/seriable/SeriableSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/rookie/pattern/test/singleton/ExectorThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/rookie/pattern/test/singleton/LazyInnerClassSingletonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/rookie/pattern/test/singleton/LazySimpleSingletonTest.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="pattern" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/rookie/pattern/singleton/lazy/LazyInnerClassSingleton.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/rookie/pattern/singleton/lazy/LazySimpleSingleton.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/rookie/pattern/singleton/seriable/SeriableSingleton.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+              <folding>
+                <element signature="e#253#254#0" expanded="true" />
+                <element signature="e#285#286#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="55" column="45" selection-start-line="55" selection-start-column="45" selection-end-line="55" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/rookie/pattern/singleton/lazy/LazyDoubleCheckSingleton.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="278">
+              <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/rookie/pattern/test/singleton/LazyInnerClassSingletonTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/rookie/pattern/singleton/hungry/HungrySingleton.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/rookie/pattern/singleton/hungry/HungryStaticSingleton.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/rookie/pattern/test/singleton/ExectorThread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/rookie/pattern/test/singleton/LazySimpleSingletonTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="D:" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/rookie/pattern/factory/abstractFactory/S.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rookie/pattern/factory/abstractFactory/A.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rookie/pattern/factory/abstractFactory/B.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rookie/pattern/factory/factoryMethod/FoodType.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rookie/pattern/factory/factoryMethod/Food.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rookie/pattern/factory/factoryMethod/Cook.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rookie/pattern/factory/factoryMethod/ChineseFood.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rookie/pattern/factory/factoryMethod/ChineseCook.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rookie/pattern/factory/factoryMethod/WesternFood.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rookie/pattern/factory/factoryMethod/WesterCook.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rookie/pattern/factory/factoryMethod/Application.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rookie/pattern/singleton/HungurySingleton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rookie/pattern/singleton/HungryStaticSingleton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rookie/pattern/singleton/HungrySingleton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rookie/pattern/singleton/LazySingleton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rookie/pattern/test/LazySingleton.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/rookie/pattern/test/singleton/ExectorThread.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/rookie/pattern/test/singleton/LazySimpleSingletonTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rookie/pattern/test/LazySimpleSingleton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rookie/pattern/singleton/LazySimpleSingleton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rookie/pattern/singleton/hungry/HungrySingleton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rookie/pattern/singleton/hungry/HungryStaticSingleton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rookie/pattern/singleton/lazy/LazySimpleSingleton.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/rookie/pattern/singleton/singleton/ExectorThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rookie/pattern/test/lazy/LazyDoubleCheckSingleton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rookie/pattern/singleton/factoryMethod/Cook.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rookie/pattern/singleton/lazy/LazyDoubleCheckSingleton.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/rookie/pattern/test/singleton/LazyInnerClassSingletonTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rookie/pattern/singleton/lazy/LazyInnerClassSingleton.java" />
+        <option value="$PROJECT_DIR$/src/extra_message" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rookie/pattern/singleton/seriable/SeriableSingleton.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="D:\maven\install\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="singleton" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="singleton" type="462c0819:PsiDirectoryNode" />
+              <item name="lazy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552398853675" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.rookie.pattern.singleton.lazy" />
+      <recent name="com.rookie.pattern.singleton" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Study\copy\pattern\src\main\java\com\rookie\pattern" />
+      <recent name="D:\Study\copy\pattern\src\test\java\com\rookie\pattern\test" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.LazyInnerClassSingletonTest">
+    <configuration name="A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rookie.pattern.factory.abstractFactory.A" />
+      <module name="pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rookie.pattern.factory.abstractFactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rookie.App" />
+      <module name="pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rookie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rookie.pattern.factory.factoryMethod.Application" />
+      <module name="pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rookie.pattern.factory.factoryMethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LazyInnerClassSingletonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rookie.pattern.test.singleton.LazyInnerClassSingletonTest" />
+      <module name="pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rookie.pattern.test.singleton.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LazySimpleSingletonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rookie.pattern.test.singleton.LazySimpleSingletonTest" />
+      <module name="pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rookie.pattern.test.singleton.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LazyInnerClassSingletonTest" />
+        <item itemvalue="Application.LazySimpleSingletonTest" />
+        <item itemvalue="Application.Application" />
+        <item itemvalue="Application.A" />
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e40281a7-67b5-4711-8ec3-78b93d50e847" name="Default Changelist" comment="" />
+      <created>1551881073201</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551881073201</updated>
+      <workItem from="1551881084422" duration="765000" />
+      <workItem from="1551882533672" duration="51000" />
+      <workItem from="1551882619405" duration="69000" />
+      <workItem from="1551882731054" duration="762000" />
+      <workItem from="1551883531988" duration="2138000" />
+      <workItem from="1551885975301" duration="1602000" />
+      <workItem from="1551887597196" duration="2982000" />
+      <workItem from="1551973991665" duration="619000" />
+      <workItem from="1552318626328" duration="8374000" />
+      <workItem from="1552393946464" duration="302000" />
+      <workItem from="1552394284889" duration="1603000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="AppTest_shouldAnswerWithTrue - 2019.03.06 at 22h 14m 31s.xml">
+      <configuration name="AppTest.shouldAnswerWithTrue" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="19267000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49887133" visible="true" weight="0.23551503" />
+      <window_info id="Structure" order="1" sideWeight="0.5011287" side_tool="true" weight="0.26877683" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5011287" side_tool="true" weight="0.26877683" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3295711" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3295711" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39954853" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3295711" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" show_stripe_button="false" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3299356" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="PlantUML" order="9" weight="0.3299356" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/rookie/pattern/test/singleton/LazySimpleSingletonTest.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/rookie/pattern/singleton/lazy/LazySimpleSingleton.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/rookie/pattern/singleton/lazy/LazyDoubleCheckSingleton.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/rookie/pattern/test/singleton/ExectorThread.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="uml://JAVA/com.rookie.pattern.factory.abstractFactory.A">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.rookie.pattern.factory.abstractFactory.A</OriginalElement>
+          <nodes>
+            <node x="" y="">com.rookie.pattern.factory.abstractFactory.S</node>
+            <node x="" y="">com.rookie.pattern.factory.abstractFactory.A</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="36.0" y="60.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rookie/pattern/factory/abstractFactory/A.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rookie/pattern/factory/abstractFactory/B.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rookie/pattern/factory/abstractFactory/S.java" />
+    <entry file="uml://JAVA/com.rookie.pattern.factory.abstractFactory.B">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.rookie.pattern.factory.abstractFactory.B</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="109.0" y="168.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Methods</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rookie/App.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/rookie/AppTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rookie/pattern/factory/factoryMethod/Cook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rookie/pattern/factory/factoryMethod/ChineseFood.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#209#210#0" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
+            <element signature="e#385#386#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rookie/pattern/factory/factoryMethod/WesternFood.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+          <folding>
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#209#210#0" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
+            <element signature="e#385#386#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rookie/pattern/factory/factoryMethod/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+          <folding>
+            <element signature="e#142#143#0" expanded="true" />
+            <element signature="e#174#175#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rookie/pattern/factory/factoryMethod/ChineseCook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rookie/pattern/factory/factoryMethod/Food.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rookie/pattern/factory/factoryMethod/FoodType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rookie/pattern/factory/factoryMethod/WesterCook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#153#154#0" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rookie/pattern/singleton/factoryMethod/Cook.java" />
+    <entry file="file://$PROJECT_DIR$/src/extra_message">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/rookie/pattern/test/singleton/LazyInnerClassSingletonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/rookie/pattern/test/singleton/ExectorThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/rookie/pattern/test/singleton/LazySimpleSingletonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rookie/pattern/singleton/hungry/HungryStaticSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rookie/pattern/singleton/lazy/LazyDoubleCheckSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rookie/pattern/singleton/lazy/LazyInnerClassSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rookie/pattern/singleton/lazy/LazySimpleSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rookie/pattern/singleton/seriable/SeriableSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#253#254#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="55" column="45" selection-start-line="55" selection-start-column="45" selection-end-line="55" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rookie/pattern/singleton/hungry/HungrySingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>groovy-2.5.4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>pattern</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: junit:junit:4.11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

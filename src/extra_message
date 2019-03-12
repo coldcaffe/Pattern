@@ -1,0 +1,2 @@
+1.总结内部类执行逻辑
+2.单例中实现ObjectInputStream反射调用readResolve方法以保证单例不被序列化破坏
