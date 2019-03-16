@@ -1,0 +1,7 @@
+@startuml
+ -> OutterClass: 1.初始化外部类
+OutterClass -> InnerClass: 2.outter.inner
+
+InnerClass -> OutterClass: 3.初始化内部类
+ <-- OutterClass: 4.调用内部类方法返回
+@enduml
